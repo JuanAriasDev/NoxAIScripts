@@ -1,4 +1,4 @@
-This files are only a part of the project, so they will not build properly. You can download the full version to test it in Steam.
+This files are only a part of the project, so they will not build properly.
 
 NoxAICharacter - This is a base character created for different enemies in the game.
 
